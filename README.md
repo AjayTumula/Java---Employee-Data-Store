@@ -1,4 +1,4 @@
-# JDBCApp
+# Employee Data Store Application
 
 This is a sample web application developed using Java, JSP, Servlet, and JDBC which allows a user to register using a form and once a user enters his details all his details gets stored in 
 MySQL Database. The user will also be able to retrieve the userdetails from database through UI. 
